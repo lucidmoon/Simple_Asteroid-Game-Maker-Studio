@@ -1,4 +1,5 @@
 # Simple_Asteroid-Game-Maker-Studio
+ENDLESS MODE
 
 CONTROL:
 in MainMenu: SPACE/SHIFT/ENTER-- to select the menu
